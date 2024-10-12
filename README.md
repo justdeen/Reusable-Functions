@@ -18,4 +18,4 @@ let isChild = range(0, 18)   //storing the inner function in a variable when th
 isChild(5)   //------> true
 ```
 
-![Uploading art2.img_page-0001.jpg…]()
+![art2 img_page-0001](https://github.com/user-attachments/assets/c58ede21-84bf-4802-b7e8-2d175835e713)
