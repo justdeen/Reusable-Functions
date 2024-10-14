@@ -1,5 +1,5 @@
 ## Overview 
-Create dynamic range checks with nested functions and write reusable code that sets min-max ranges and tests numbers against them.
+This repo can be cloned and used to create dynamic range checks with nested functions which can then be used to test numbers against the range.
 <br>
 <br>
 
