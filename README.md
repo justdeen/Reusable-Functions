@@ -16,7 +16,7 @@ function range(min, max){   //outer function for defining the range
 }
 
 let isChild = range(0, 18)   //storing the inner function in a variable when the outer function is called
-isChild(5)   //------> true
+isChild(5)   //-----> true
 ```
 <br>
 
