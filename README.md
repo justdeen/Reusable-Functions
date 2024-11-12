@@ -5,7 +5,7 @@
 <br>
 
 ## Overview 
-This repo can be cloned and used to create dynamic range checks with nested functions which can then be used to test numbers against the predefined range.
+This repo can be cloned and used to create dynamic range checks with nested functions which can then be used to test numbers against the range.
 <br>
 <br>
 
